@@ -1,5 +1,0 @@
-#!/bin/bash
-
-script=$1
-echo -n 'explain '
-cat $script
